@@ -1,0 +1,8 @@
+# files
+.DS_Store
+*.sqlite
+config.py
+
+# folders
+docs/
+__pycache__/
